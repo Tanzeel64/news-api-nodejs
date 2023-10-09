@@ -1,7 +1,7 @@
 ## Available Scripts
 In the project directory, you can run:
 
-# `npm dev`
+# npm dev
 Start the server by building the app and then starting
 
 # `npm build`
